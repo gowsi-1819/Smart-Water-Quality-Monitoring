@@ -27,3 +27,19 @@ This project is for educational purposes only and does not provide medical diagn
 - Database connectivity
 - Real-time monitoring dashboard
 - Machine learning-based prediction
+
+- ## How to Run
+1. Compile the program:
+   javac Main.java WaterQualityChecker.java
+2. Run the program:
+   java Main
+
+## Sample Input
+pH: 7.2  
+Turbidity: 3  
+TDS: 300  
+
+## Sample Output
+Water Quality Status: SAFE  
+Health Advisory: No significant waterborne disease risk detected
+
